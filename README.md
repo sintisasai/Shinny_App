@@ -1,1 +1,1 @@
-# Shiny_App
+In this project I build a shinny app that is interactive to display some visualizations and summary statistics. The data is sourced from IUP admsissions department, and is undergraduate 2019 admissions data. I did some data cleaning, Exploratory data analysis to understand the data better and built a shinny app 
